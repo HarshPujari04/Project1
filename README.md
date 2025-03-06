@@ -14,7 +14,7 @@ This project aims to analyze the sales performance of a retail business using SQ
 ## Steps to Execute
 
 ### Step 1: Data Extraction Using SQL
-1. Connect to the database (e.g., MySQL, PostgreSQL, or SQL Server).
+1. Connect to the database.
 2. Extract sales data using SQL queries.
 3. Export the result to CSV or Excel.
 
